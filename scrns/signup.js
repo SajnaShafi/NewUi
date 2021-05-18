@@ -39,7 +39,7 @@ const Signup = ({navigation,route})=>{
     return (
       <View style={styles.container}>
         <Text style={styles.input}>WELCOME</Text>
-  <Text style={styles.input1} >Create a new account</Text>
+  <Text style={styles.input1} >Create new account</Text>
   
   
 

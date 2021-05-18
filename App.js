@@ -8,7 +8,7 @@ import Home from './scrns/home';
 import Signup from './scrns/Signup';
 import Login from './scrns/Login';
    
-
+///////
 
 const Stack = createStackNavigator();
    
